@@ -1,3 +1,9 @@
+Nom : Milovanovic
+Prénom : Léo
+classe : BTC 24.1
+Ecole : .Ipssi
+
+
 Question 2 : B
 La ligne de commande serait : 
 
